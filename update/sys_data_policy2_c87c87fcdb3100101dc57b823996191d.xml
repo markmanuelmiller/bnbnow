@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_data_policy2">
+    <sys_data_policy2 action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <apply_import_set>true</apply_import_set>
+        <apply_soap>true</apply_soap>
+        <conditions/>
+        <description/>
+        <enforce_ui>true</enforce_ui>
+        <inherit>false</inherit>
+        <model_id/>
+        <model_table>x_341524_bnbnow_listing</model_table>
+        <reverse_if_false>true</reverse_if_false>
+        <short_description>Sets the Title field to mandatory</short_description>
+        <sys_class_name>sys_data_policy2</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-16 09:36:59</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c87c87fcdb3100101dc57b823996191d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sets the Title field to mandatory</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="BnBNow" source="x_341524_bnbnow">f46b4f7cdb3100101dc57b8239961906</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BnBNow">f46b4f7cdb3100101dc57b8239961906</sys_scope>
+        <sys_update_name>sys_data_policy2_c87c87fcdb3100101dc57b823996191d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-16 09:36:59</sys_updated_on>
+    </sys_data_policy2>
+</record_update>
