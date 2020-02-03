@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_341524_bnbnow_m2m_amenity</description>
+        <name>x_341524_bnbnow_m2m_amenity</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-31 22:21:15</sys_created_on>
+        <sys_id>3b74fafbdb2200101dc57b8239961917</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_341524_bnbnow_m2m_amenity</sys_name>
+        <sys_package display_value="BnBNow" source="x_341524_bnbnow">f46b4f7cdb3100101dc57b8239961906</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BnBNow">f46b4f7cdb3100101dc57b8239961906</sys_scope>
+        <sys_update_name>sys_security_acl_3b74fafbdb2200101dc57b8239961917</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-31 22:21:15</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="BnBNow">f46b4f7cdb3100101dc57b8239961906</application>
+        <file_path/>
+        <instance_id>2cd8f351dbbc77c052cec597059619c4</instance_id>
+        <instance_name>dev80656</instance_name>
+        <name>sys_security_acl_3b74fafbdb2200101dc57b8239961917</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on x_341524_bnbnow_m2m_amenity</description><name>x_341524_bnbnow_m2m_amenity</name><operation display_value="delete">delete</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-01-31 22:21:15</sys_created_on><sys_id>3b74fafbdb2200101dc57b8239961917</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_341524_bnbnow_m2m_amenity</sys_name><sys_package display_value="BnBNow" source="x_341524_bnbnow">f46b4f7cdb3100101dc57b8239961906</sys_package><sys_policy/><sys_scope display_value="BnBNow">f46b4f7cdb3100101dc57b8239961906</sys_scope><sys_update_name>sys_security_acl_3b74fafbdb2200101dc57b8239961917</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-01-31 22:21:15</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>346671758</payload_hash>
+        <record_name>x_341524_bnbnow_m2m_amenity</record_name>
+        <reverted_from/>
+        <source>c4c31cb9db9a40101dc57b82399619dc</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-31 22:21:15</sys_created_on>
+        <sys_id>cc84fafbdb2200101dc57b8239961919</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ffdb1a5c80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-31 22:21:15</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>3b74fafba42200107a1ed06bfe649f19</update_guid>
+        <update_guid_history>3b74fafba42200107a1ed06bfe649f19:346671758</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-31 22:35:37</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>4bd025fdbae145989f076b40aa48f110</sys_id>
+        <sys_metadata>3b74fafbdb2200101dc57b8239961917</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_341524_bnbnow_m2m_amenity</sys_name>
+        <sys_package display_value="BnBNow" source="x_341524_bnbnow">f46b4f7cdb3100101dc57b8239961906</sys_package>
+        <sys_parent display_value="">8084fafbdb2200101dc57b823996191d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="BnBNow">f46b4f7cdb3100101dc57b8239961906</sys_scope>
+        <sys_scope_delete display_value="">62e00ded418d4d288b90e2eb5fb77a10</sys_scope_delete>
+        <sys_update_name>sys_security_acl_3b74fafbdb2200101dc57b8239961917</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_3b74fafbdb2200101dc57b8239961917">cc84fafbdb2200101dc57b8239961919</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-31 22:35:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

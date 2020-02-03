@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="x_341524_bnbnow_listing" label="Stay" max_length="40" name="x_341524_bnbnow_stay" type="collection">
+        <element label="Baths" max_length="40" name="baths" type="integer"/>
+        <element label="Bedrooms" max_length="40" name="bedrooms" type="integer"/>
+        <element label="Beds" max_length="40" name="beds" type="integer"/>
+        <element label="Guests" max_length="40" name="guests" type="integer"/>
+        <element label="House Rules" max_length="4000" name="house_rules" type="string_full_utf8"/>
+        <element choice="3" default="Entire place" label="Type" max_length="40" name="type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Entire place" sequence="100" value="Entire place"/>
+                <element inactive_on_update="false" label="Private room" sequence="200" value="Private room"/>
+            </choice>
+        </element>
+    </element>
+</database>

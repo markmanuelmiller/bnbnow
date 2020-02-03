@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="BnBNow">a695893ddb5e40101dc57b823996193c</application>
+        <filter/>
+        <name>Stays</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_341524_bnbnow.bnbnow_host</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-12 22:58:15</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>acc6817ddb5e40101dc57b82399619b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Stays</sys_name>
+        <sys_package display_value="BnBNow" source="x_341524_bnbnow">f46b4f7cdb3100101dc57b8239961906</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BnBNow">f46b4f7cdb3100101dc57b8239961906</sys_scope>
+        <sys_update_name>sys_ui_module_acc6817ddb5e40101dc57b82399619b8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-12 22:58:15</sys_updated_on>
+        <table>x_341524_bnbnow_stay</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

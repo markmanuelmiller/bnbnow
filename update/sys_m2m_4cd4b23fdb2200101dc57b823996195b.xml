@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_m2m">
+    <sys_m2m action="INSERT_OR_UPDATE">
+        <from_table>x_341524_bnbnow_stay</from_table>
+        <m2m_from_field>stay</m2m_from_field>
+        <m2m_from_label>Stay</m2m_from_label>
+        <m2m_table>x_341524_bnbnow_m2m_m2m_amenities_stays</m2m_table>
+        <m2m_to_field>amenity</m2m_to_field>
+        <m2m_to_label>Amenity</m2m_to_label>
+        <sys_class_name>sys_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-31 22:23:58</sys_created_on>
+        <sys_id>4cd4b23fdb2200101dc57b823996195b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_341524_bnbnow_m2m_m2m_amenities_stays</sys_name>
+        <sys_package display_value="BnBNow" source="x_341524_bnbnow">f46b4f7cdb3100101dc57b8239961906</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BnBNow">f46b4f7cdb3100101dc57b8239961906</sys_scope>
+        <sys_update_name>sys_m2m_4cd4b23fdb2200101dc57b823996195b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-31 22:23:58</sys_updated_on>
+        <to_table>x_341524_bnbnow_m2m_amenity</to_table>
+    </sys_m2m>
+</record_update>

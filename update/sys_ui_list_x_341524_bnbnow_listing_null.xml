@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_341524_bnbnow_listing" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_341524_bnbnow_listing" element="NULL" name="x_341524_bnbnow_listing" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9d808bf7db6200101dc57b8239961973</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-31 23:13:47</sys_created_on>
+            <sys_id>95808bf7db6200101dc57b8239961974</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-31 23:13:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>address</element>
+            <list_id display_value="x_341524_bnbnow_listing" element="NULL" name="x_341524_bnbnow_listing" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9d808bf7db6200101dc57b8239961973</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-31 23:13:47</sys_created_on>
+            <sys_id>19808bf7db6200101dc57b8239961974</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-31 23:13:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>cancellation_policy</element>
+            <list_id display_value="x_341524_bnbnow_listing" element="NULL" name="x_341524_bnbnow_listing" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9d808bf7db6200101dc57b8239961973</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-31 23:13:47</sys_created_on>
+            <sys_id>99808bf7db6200101dc57b8239961974</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-31 23:13:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>description</element>
+            <list_id display_value="x_341524_bnbnow_listing" element="NULL" name="x_341524_bnbnow_listing" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9d808bf7db6200101dc57b8239961973</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-31 23:13:47</sys_created_on>
+            <sys_id>1d808bf7db6200101dc57b8239961974</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-31 23:13:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>host</element>
+            <list_id display_value="x_341524_bnbnow_listing" element="NULL" name="x_341524_bnbnow_listing" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9d808bf7db6200101dc57b8239961973</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-31 23:13:47</sys_created_on>
+            <sys_id>9d808bf7db6200101dc57b8239961974</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-31 23:13:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>price</element>
+            <list_id display_value="x_341524_bnbnow_listing" element="NULL" name="x_341524_bnbnow_listing" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9d808bf7db6200101dc57b8239961973</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-31 23:13:47</sys_created_on>
+            <sys_id>11808bf7db6200101dc57b8239961975</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-31 23:13:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>status</element>
+            <list_id display_value="x_341524_bnbnow_listing" element="NULL" name="x_341524_bnbnow_listing" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9d808bf7db6200101dc57b8239961973</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-31 23:13:47</sys_created_on>
+            <sys_id>91808bf7db6200101dc57b8239961975</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-31 23:13:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>title</element>
+            <list_id display_value="x_341524_bnbnow_listing" element="NULL" name="x_341524_bnbnow_listing" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9d808bf7db6200101dc57b8239961973</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-31 23:13:47</sys_created_on>
+            <sys_id>15808bf7db6200101dc57b8239961975</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-31 23:13:47</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_341524_bnbnow_listing</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-31 23:13:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9d808bf7db6200101dc57b8239961973</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_341524_bnbnow_listing</sys_name>
+            <sys_package display_value="BnBNow" source="x_341524_bnbnow">f46b4f7cdb3100101dc57b8239961906</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="BnBNow">f46b4f7cdb3100101dc57b8239961906</sys_scope>
+            <sys_update_name>sys_ui_list_x_341524_bnbnow_listing_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-31 23:13:47</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

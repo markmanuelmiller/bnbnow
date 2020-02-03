@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="x_341524_bnbnow_listing" label="Experience" max_length="40" name="x_341524_bnbnow_experience" type="collection"/>
+</database>

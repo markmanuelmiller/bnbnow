@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="BnBNow">598c4f3cdb3100101dc57b8239961981</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>All</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_341524_bnbnow_listing</name>
+        <order>3</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-16 09:37:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>dd8cc7fcdb3100101dc57b82399619cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="BnBNow" source="x_341524_bnbnow">f46b4f7cdb3100101dc57b8239961906</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BnBNow">f46b4f7cdb3100101dc57b8239961906</sys_scope>
+        <sys_update_name>sys_app_module_dd8cc7fcdb3100101dc57b82399619cd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-16 09:37:21</sys_updated_on>
+        <timeline_page/>
+        <title>All</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="BnBNow">f46b4f7cdb3100101dc57b8239961906</application>
+        <file_path/>
+        <instance_id>2cd8f351dbbc77c052cec597059619c4</instance_id>
+        <instance_name>dev80656</instance_name>
+        <name>sys_app_module_dd8cc7fcdb3100101dc57b82399619cd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="BnBNow">598c4f3cdb3100101dc57b8239961981</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>All</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_341524_bnbnow_listing</name>
+        <order>3</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-16 09:37:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>dd8cc7fcdb3100101dc57b82399619cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="BnBNow" source="x_341524_bnbnow">f46b4f7cdb3100101dc57b8239961906</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BnBNow">f46b4f7cdb3100101dc57b8239961906</sys_scope>
+        <sys_update_name>sys_app_module_dd8cc7fcdb3100101dc57b82399619cd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-16 09:37:21</sys_updated_on>
+        <timeline_page/>
+        <title>All</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>]]></payload>
+        <payload_hash>-1175649349</payload_hash>
+        <record_name>All</record_name>
+        <reverted_from/>
+        <source>92b390bddb9a40101dc57b8239961918</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-12 19:15:17</sys_created_on>
+        <sys_id>22b390bddb9a40101dc57b823996196f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16f9b2e90a80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-12 19:15:17</sys_updated_on>
+        <type>Module</type>
+        <update_guid>aeb390bd179a401044728d3c6b1fda6e</update_guid>
+        <update_guid_history>aeb390bd179a401044728d3c6b1fda6e:0,d8b3dc7dc19a401074d452cc3c150dc9:-1900694857,9eb1eee5741640104a417928c3a29ac8:0,c4b12ee52b164010065ea2b30b7319cf:-1900694857,bc16adad721240108fc10559d85c06b8:0,6a062dad59124010ed574ea8460bf62e:-1900694857,9d8cc7fc163100102a1535f9811dacce:-9859261</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="All">daaac5b1db9e40101dc57b8239961949</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-12 23:15:17</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>6a5d9f34a3564af08bcc23ce8d0ef100</sys_id>
+        <sys_metadata>dd8cc7fcdb3100101dc57b82399619cd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All</sys_name>
+        <sys_package display_value="BnBNow" source="x_341524_bnbnow">f46b4f7cdb3100101dc57b8239961906</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="BnBNow">f46b4f7cdb3100101dc57b8239961906</sys_scope>
+        <sys_scope_delete display_value="">62e00ded418d4d288b90e2eb5fb77a10</sys_scope_delete>
+        <sys_update_name>sys_app_module_dd8cc7fcdb3100101dc57b82399619cd</sys_update_name>
+        <sys_update_version display_value="sys_app_module_dd8cc7fcdb3100101dc57b82399619cd">22b390bddb9a40101dc57b823996196f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-12 23:15:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

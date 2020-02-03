@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Listing Image" max_length="40" name="x_341524_bnbnow_listing_image" type="collection">
+        <element label="Image" max_length="40" name="image" type="user_image"/>
+        <element label="Listing" max_length="32" name="listing" reference="x_341524_bnbnow_listing" type="reference"/>
+        <element label="Order" max_length="40" name="order" type="integer"/>
+        <element label="Title" max_length="255" name="title" type="string_full_utf8"/>
+        <index name="index">
+            <element name="listing"/>
+        </index>
+    </element>
+</database>
