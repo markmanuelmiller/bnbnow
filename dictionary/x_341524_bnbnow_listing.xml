@@ -9,6 +9,7 @@
                 <element inactive_on_update="false" label="48 hour notice, 50% refund" sequence="400" value="48 hour notice 50"/>
             </choice>
         </element>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="City" max_length="32" name="city" reference="x_341524_bnbnow_city" type="reference"/>
         <element label="Description" max_length="4000" name="description" type="string_full_utf8"/>
         <element label="Host" max_length="32" name="host" reference="sys_user" type="reference"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
@@ -23,9 +24,12 @@
         <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
         <element attributes="edge_encryption_enabled=true" display="true" label="Title" max_length="255" name="title" type="string"/>
         <index name="index">
-            <element name="host"/>
+            <element name="city"/>
         </index>
         <index name="index2">
+            <element name="host"/>
+        </index>
+        <index name="index3">
             <element name="sys_class_name"/>
         </index>
     </element>

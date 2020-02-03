@@ -4,22 +4,22 @@
         <license_condition/>
         <license_model>none</license_model>
         <license_roles/>
-        <name>x_341524_bnbnow_m2m_amenities_stays</name>
+        <name>x_341524_bnbnow_city</name>
         <op_delete>true</op_delete>
         <op_insert>true</op_insert>
         <op_update>true</op_update>
         <owner_condition/>
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-01-31 22:37:48</sys_created_on>
-        <sys_id>1648faffdb2200101dc57b8239961960</sys_id>
+        <sys_created_on>2020-02-03 02:57:30</sys_created_on>
+        <sys_id>86e6422cdbf640101dc57b8239961941</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_341524_bnbnow_m2m_amenities_stays</sys_name>
+        <sys_name>x_341524_bnbnow_city</sys_name>
         <sys_package display_value="BnBNow" source="x_341524_bnbnow">f46b4f7cdb3100101dc57b8239961906</sys_package>
         <sys_policy/>
         <sys_scope display_value="BnBNow">f46b4f7cdb3100101dc57b8239961906</sys_scope>
-        <sys_update_name>ua_table_licensing_config_1648faffdb2200101dc57b8239961960</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_86e6422cdbf640101dc57b8239961941</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-01-31 22:37:48</sys_updated_on>
+        <sys_updated_on>2020-02-03 02:57:30</sys_updated_on>
     </ua_table_licensing_config>
 </record_update>
