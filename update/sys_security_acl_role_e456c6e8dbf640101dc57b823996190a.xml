@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-03 02:54:56</sys_created_on>
+        <sys_id>e456c6e8dbf640101dc57b823996190a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_341524_bnbnow_state.x_341524_bnbnow.bnbnow_admin</sys_name>
+        <sys_package display_value="BnBNow" source="x_341524_bnbnow">f46b4f7cdb3100101dc57b8239961906</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BnBNow">f46b4f7cdb3100101dc57b8239961906</sys_scope>
+        <sys_security_acl display_value="x_341524_bnbnow_state">6c56c6e8dbf640101dc57b8239961906</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_e456c6e8dbf640101dc57b823996190a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-03 02:54:56</sys_updated_on>
+        <sys_user_role display_value="x_341524_bnbnow.bnbnow_admin" name="x_341524_bnbnow.bnbnow_admin">cd9b0770db3100101dc57b8239961934</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

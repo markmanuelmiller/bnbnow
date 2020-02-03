@@ -28,6 +28,20 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2020-01-31 22:47:07</sys_updated_on>
         </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-03 03:06:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6ce8ceecdbf640101dc57b8239961954</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_341524_bnbnow_stay" name="x_341524_bnbnow_stay" sys_domain="global" view="Default view">fe6a72b3db6200101dc57b8239961962</sys_ui_form>
+            <sys_ui_section caption="Location" display_value="Location" name="x_341524_bnbnow_stay" sys_domain="global" view="Default view">ace8ceecdbf640101dc57b8239961951</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-03 03:06:08</sys_updated_on>
+        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_341524_bnbnow_stay</name>
             <roles/>

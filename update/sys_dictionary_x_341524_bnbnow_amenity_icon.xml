@@ -53,7 +53,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-01-31 22:18:52</sys_created_on>
-        <sys_id>b9d33ebbdb2200101dc57b8239961949</sys_id>
+        <sys_id>02f98224db3a40101dc57b82399619c4</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Icon</sys_name>
         <sys_package display_value="BnBNow" source="x_341524_bnbnow">f46b4f7cdb3100101dc57b8239961906</sys_package>
@@ -61,7 +61,7 @@
         <sys_scope display_value="BnBNow">f46b4f7cdb3100101dc57b8239961906</sys_scope>
         <sys_update_name>sys_dictionary_x_341524_bnbnow_amenity_icon</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-01-31 22:18:52</sys_updated_on>
+        <sys_updated_on>2020-02-03 03:10:55</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

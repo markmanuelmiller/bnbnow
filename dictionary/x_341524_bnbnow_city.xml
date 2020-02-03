@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="City" max_length="40" name="x_341524_bnbnow_city" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Active" max_length="40" name="active" type="boolean"/>
+        <element label="Name" max_length="255" name="name" type="string_full_utf8"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Region/Province/State" max_length="32" name="region_province_state" reference="x_341524_bnbnow_state" type="reference"/>
+        <index name="index">
+            <element name="region_province_state"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Region/Province/State" max_length="40" name="x_341524_bnbnow_state" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Active" max_length="40" name="active" type="boolean"/>
+        <element label="Code" max_length="5" name="code" type="string_full_utf8"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Country" max_length="32" name="country" reference="x_341524_bnbnow_country" type="reference"/>
+        <element label="Name" max_length="255" name="name" type="string_full_utf8"/>
+        <index name="index">
+            <element name="country"/>
+        </index>
+    </element>
+</database>

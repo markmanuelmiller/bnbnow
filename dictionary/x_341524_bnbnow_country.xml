@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Country" max_length="40" name="x_341524_bnbnow_country" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Active" max_length="40" name="active" type="boolean"/>
+        <element label="Code" max_length="5" name="code" type="string_full_utf8"/>
+        <element label="Name" max_length="255" name="name" type="string_full_utf8"/>
+    </element>
+</database>
