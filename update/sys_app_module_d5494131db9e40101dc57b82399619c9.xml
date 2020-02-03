@@ -8,33 +8,33 @@
         <hint/>
         <homepage/>
         <image/>
-        <link_type>NEW</link_type>
+        <link_type>LIST</link_type>
         <map_page/>
-        <mobile_title>Create New</mobile_title>
+        <mobile_title>Experiences</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name>x_341524_bnbnow_listing</name>
-        <order>2</order>
+        <name>x_341524_bnbnow_experience</name>
+        <order>300</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
-        <roles/>
+        <roles>x_341524_bnbnow.bnbnow_host,x_341524_bnbnow.bnbnow_admin,x_341524_bnbnow.bnbnow_guest</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-12-16 09:37:21</sys_created_on>
+        <sys_created_on>2020-01-12 23:09:14</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>158cc7fcdb3100101dc57b82399619cc</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Create New</sys_name>
+        <sys_id>d5494131db9e40101dc57b82399619c9</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Experiences</sys_name>
         <sys_overrides/>
         <sys_package display_value="BnBNow" source="x_341524_bnbnow">f46b4f7cdb3100101dc57b8239961906</sys_package>
         <sys_policy/>
         <sys_scope display_value="BnBNow">f46b4f7cdb3100101dc57b8239961906</sys_scope>
-        <sys_update_name>sys_app_module_158cc7fcdb3100101dc57b82399619cc</sys_update_name>
+        <sys_update_name>sys_app_module_d5494131db9e40101dc57b82399619c9</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-12-16 09:37:21</sys_updated_on>
+        <sys_updated_on>2020-01-12 23:13:15</sys_updated_on>
         <timeline_page/>
-        <title>Create New</title>
+        <title>Experiences</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="M2M Amenities" max_length="40" name="x_341524_bnbnow_m2m_amenities_stays" type="collection">
+        <element attributes="encode_utf8=false" label="Amenity" max_length="32" name="amenity" reference="x_341524_bnbnow_amenity" type="reference"/>
+        <element attributes="encode_utf8=false" label="Stay" max_length="32" name="stay" reference="x_341524_bnbnow_stay" type="reference"/>
+        <index name="index">
+            <element name="amenity"/>
+        </index>
+        <index name="index2">
+            <element name="stay"/>
+        </index>
+    </element>
+</database>

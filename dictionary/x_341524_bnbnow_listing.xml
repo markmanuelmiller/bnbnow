@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Listing" max_length="40" name="x_341524_bnbnow_listing" type="collection">
         <element label="Address" max_length="1000" name="address" type="string_full_utf8"/>
+        <element choice="1" label="Cancellation Policy" max_length="40" name="cancellation_policy" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="24 hour notice, full refund" sequence="100" value="24 hour notice 100"/>
+                <element inactive_on_update="false" label="24 hour notice, 50% refund" sequence="200" value="24 hour notice 50"/>
+                <element inactive_on_update="false" label="48 hour notice, full refund" sequence="300" value="48 hour notice 100"/>
+                <element inactive_on_update="false" label="48 hour notice, 50% refund" sequence="400" value="48 hour notice 50"/>
+            </choice>
+        </element>
+        <element label="Description" max_length="4000" name="description" type="string_full_utf8"/>
+        <element label="Host" max_length="32" name="host" reference="sys_user" type="reference"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Price" max_length="20" name="price" type="currency"/>
+        <element choice="3" default="Draft" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Draft" sequence="100" value="Draft"/>
+                <element inactive_on_update="false" label="Listed" sequence="200" value="Listed"/>
+                <element inactive_on_update="false" label="Unlisted" sequence="300" value="Unlisted"/>
+            </choice>
+        </element>
+        <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
         <element attributes="edge_encryption_enabled=true" display="true" label="Title" max_length="255" name="title" type="string"/>
+        <index name="index">
+            <element name="host"/>
+        </index>
+        <index name="index2">
+            <element name="sys_class_name"/>
+        </index>
     </element>
 </database>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Amenity" max_length="40" name="x_341524_bnbnow_amenity" type="collection">
+        <element label="Description" max_length="1000" name="description" type="string_full_utf8"/>
+        <element label="Icon" max_length="40" name="icon" type="user_image"/>
+        <element label="Name" max_length="255" name="name" type="string_full_utf8"/>
+    </element>
+</database>

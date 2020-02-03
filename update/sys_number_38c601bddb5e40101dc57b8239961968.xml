@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_341524_bnbnow_stay">x_341524_bnbnow_stay</category>
+        <maximum_digits>4</maximum_digits>
+        <number>1000</number>
+        <prefix>STAY</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-12 22:58:16</sys_created_on>
+        <sys_id>38c601bddb5e40101dc57b8239961968</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>STAY</sys_name>
+        <sys_package display_value="BnBNow" source="x_341524_bnbnow">f46b4f7cdb3100101dc57b8239961906</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BnBNow">f46b4f7cdb3100101dc57b8239961906</sys_scope>
+        <sys_update_name>sys_number_38c601bddb5e40101dc57b8239961968</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-12 22:58:16</sys_updated_on>
+    </sys_number>
+</record_update>
